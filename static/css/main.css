@@ -14,6 +14,7 @@ body{
   #img-div {
     background-color: white;
     padding: 40px;
+    display: block;
     text-align: center;
     margin-top: 0;
   }
